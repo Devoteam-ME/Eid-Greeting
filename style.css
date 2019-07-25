@@ -1,0 +1,25 @@
+body {
+    background-color: #fbfbfb;
+}
+img {
+    width: 400px;
+}
+
+p { 
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+}
+
+.canvas {
+    text-align: center;
+}
+
